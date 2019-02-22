@@ -40,6 +40,3 @@ As part of our course at the Wild Code School, our third project (customer proje
 ## Auteurs / Authors
 
 Code : Loubna B., Mustapha L., Benoit C., Valentin B.
-_________________________________________________________________________________________________________________________________
-
-Code : Loubna B., Mustapha L., Benoit C., Valentin B.
